@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adithya Bandara</h1>
 <h3 align="center">I am a Software Engineering Undergraduate Student at Plymouth University .</h3>
 
+![Uploading 235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif…]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyab111&label=Profile%20views&color=0e75b6&style=flat" alt="adithyab111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyab111" alt="adithyab111" /></a> </p>
