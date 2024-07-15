@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyab111" alt="adithyab111" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning Programming Languages & Frameworks etc..**
+- 🌱 I’m currently learning Programming Languages & Frameworks etc..**
 
 - 📫 How to reach me **bandaraadithya10@gmail.com**
 
