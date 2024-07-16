@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya Bandara</h1>
 <h3 align="center">I am a Software Engineering Undergraduate Student at Plymouth University </h3>
 
+
 ![Adithya Bandara](https://github.com/user-attachments/assets/3685480f-3a98-4053-ae6a-7832ee1af811)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyab111&label=Profile%20views&color=0e75b6&style=flat" alt="adithyab111" /> </p>
